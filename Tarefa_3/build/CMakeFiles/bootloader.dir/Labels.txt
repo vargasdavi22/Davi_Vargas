@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/var/home/aluno/workspace/blink/build/CMakeFiles/bootloader
+/var/home/aluno/workspace/blink/build/CMakeFiles/bootloader.rule
+/var/home/aluno/workspace/blink/build/CMakeFiles/bootloader-complete.rule
+/var/home/aluno/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/var/home/aluno/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/var/home/aluno/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/var/home/aluno/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/var/home/aluno/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/var/home/aluno/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/var/home/aluno/workspace/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
